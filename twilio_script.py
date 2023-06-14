@@ -1,11 +1,4 @@
 """
-************************************************************************
-* Author = @alexbonella                                                *
-* Date = '15/09/2022'                                                  *
-* Description = Envio de mensajes Twilio con Python                    *
-************************************************************************
-"""
-
 
 import os
 from twilio.rest import Client
@@ -22,7 +15,7 @@ from utils import request_wapi,get_forecast,create_df,send_message,get_date
 
 
 
-query = 'Bogotá'
+query = 'Pichilemu'
 api_key = API_KEY_WAPI
 
 input_date= get_date()
