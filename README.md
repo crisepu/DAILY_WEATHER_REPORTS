@@ -1,4 +1,4 @@
-# repo-twilio-project1
+# DAILY_WEATHER_REPORTS
 
 Data engineering project from "Build Your Portfolio as a Data Engineer (Udemy Course)"
 Using twilio and weather API for python generated daily weather reports from a AWS EC2 instance to cell phone by sms.
